@@ -1,13 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R05VM8Rg)
-# IIT-Madras DA2401 Machine Learning Lab: End Semester Project
-
 # MNIST Digit Classification (0-9)
 
 ---
 
 ## 📌 Scope (as per assignment brief)
 
-This repository contains the codebase for my submission for the DA2401 End Semester Project, building a multi-class classification system to identify digits 0-9 from the MNIST dataset
+This repository contains the codebase for a multi-class classification system to identify digits 0-9 from the MNIST dataset
 
 The final system implemented in `main.py` is a **Voting Ensemble** that combines three distinct models:
 1.  **K-Nearest Neighbors** (running on PCA-reduced data)
