@@ -1,0 +1,1 @@
+Repository containing all my files and reports for my ML Algorithms Optimization and Benchmarking Course Project, including implementations of Sub-Sampled Hessian Free, Stochastic Quasi-Newton, XGBoost, KNN and their subsequent evaluation frameworks on real data
