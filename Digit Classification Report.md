@@ -1,6 +1,6 @@
-# DA2401 End Semester Project
+# Digit Classification Report
 
-Vrishab Anurag Venkataraghavan, DA24B033
+Vrishab Anurag Venkataraghavan
 
 ---
 
