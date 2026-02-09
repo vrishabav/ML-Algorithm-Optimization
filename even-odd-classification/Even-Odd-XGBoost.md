@@ -1,6 +1,6 @@
 # Classification
 
-## 📌 Scope (as per assignment brief):
+## 📌 Scope:
 
 This repository contains the codebase used for implementations of the XGBoost method for Binary Classification, as outlined in the referenced paper - to predict on the MNIST data set whether a number being represented is even or odd
 
