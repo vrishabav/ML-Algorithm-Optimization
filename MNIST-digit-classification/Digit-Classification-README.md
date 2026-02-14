@@ -17,22 +17,11 @@ The final system implemented in `main.py` is a **Voting Ensemble** that combines
 
 ```
 .
-
-├── .github/                                    # Configuration
-
-├── README.md                                   # Overview and running guidelines
-
-├── report.md                                   # Full report with tabulations, summaries and thoughts
-
-├── algorithms.py                               # Algorithm implementations for PCA, KNN, XGBoost, etc
-
-├── hyperparam_tuning.py                        # Script used to tune hyperparameters for all the final models used (based on a subset of the data)
-
-├── main.py                                     # Main script to train all models, build the ensemble, and evaluate
-
-├── MNIST_train.csv                             # MNIST Training Dataset
-
-└── MNIST_validation.csv                        # MNIST Validation Dataset
+├── Digit Classification Report.md      # Full report with tabulations, summaries and thoughts
+├── Digit-Classification-README.md      # Overview and running guidelines
+├── algorithms.py                       # Algorithm implementations for PCA, KNN, XGBoost, etc
+├── hyperparam_tuning.py                # Script used to tune hyperparameters for all the final models used
+└── main.py                             # Main script to train all models, build the ensemble, and evaluate
 ```
 
 ---
