@@ -1,9 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oTUoB0lL)
-# IIT-Madras DA2401 Machine Learning Lab: Assignment-1
-
 # Linear Regression – Optimization Methods
 
-> **Scope (as per assignment brief):**
+> **Scope:**
 This repository contains the code and datasets used for implementations of the Adam, ADMM, Stochastic Quasi-Newton and Sub-sampled Hessian Free methods for optimizing linear regression (in addition to SGD)
 
 
