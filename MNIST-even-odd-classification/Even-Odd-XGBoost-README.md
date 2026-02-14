@@ -10,14 +10,11 @@ This repository contains the codebase used for implementations of the XGBoost me
 
 ```
 .
-├── .github/                                                  # Configuration
-├── README.md                                                 # Overview and running guidelines
-├── da24b033_report.pdf                                       # Full report with tabulations, summaries and thoughts
-├── da24b033_xgboost.py                                       # XGBoost implementation
-├── da24b033_comparison.py                                    # Comparison between Logistic Regression, Random Forest and XGBoost on the MNIST Dataset
-├── da24b033_hyperparam_tuning.py                             # Code used for tuning Hyperparameters of XGBoost based on the MNIST Dataset
-├── MNIST_train.csv                                           # MNIST Training Dataset
-└── MNIST_validation.csv                                      # MNIST Validation Dataset
+├── Even-Odd Classification: Report.pdf       # Full report with tabulations, summaries and thoughts
+├── Even-Odd-XGBoost-README.md                # Overview and running guidelines
+├── comparison.py                             # Comparison between Logistic Regression, Random Forest and XGBoost on the MNIST Dataset
+├── hyperparam_tuning.py                      # Code used for tuning Hyperparameters of XGBoost based on the MNIST Dataset
+└── xgboost.py                                # XGBoost implementation
 
 ```
 
