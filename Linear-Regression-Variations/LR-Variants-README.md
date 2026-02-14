@@ -8,13 +8,12 @@ This repository contains the code and datasets used for implementations of the A
 
 ```
 .
-├── .github/              # Configuration
-├── README.md             # Overview and running guidelines
-├── data/                 # Contains the datasets used - diamonds_train, diamonds_val and diamonds_test
-├── outcomes/             # visualizations and data output from the code
-├── Report_DA24B033.pdf   # Full report with analysis and conclusions
-├── da24b033_submission.py # Python code submission
-└── da24b033_submission_jupyter.ipynb # Jupyter Notebook submission
+├── data/                                                        # Contains the datasets
+├── LR-Variants-README.md                                        # Overview and running guidelines
+├── Linear Regression Variants and Optimizations: Report.pdf     # Full report with analysis and conclusions
+├── algorithms.ipynb                                             # Jupyter Notebook containing algorithm implementations
+├── convergence_visualization.png                                # Visualization output of convergence analysis
+└── test_results.md                                              # Documentation of test results
 ```
 
 ## 📦 Installation & Dependencies
