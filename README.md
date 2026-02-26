@@ -154,6 +154,7 @@ The ensemble strategy proved robust, correcting the individual errors of compone
 ```bash
 pip install numpy pandas scikit-learn matplotlib xgboost
 ```
+Note: scikit-learn was only used for evaluation score computation, not for model implementation
 
 ### Running the Final Digit Classification Project
 
@@ -166,7 +167,5 @@ python main.py
 
 ## Final Summary
 
-- **Best Accuracy:** SSHF (Linear Regression)  
-- **Best Binary Classifier:** Custom XGBoost  
-- **Best Overall System:** Voting Ensemble (Weighted F1 = 0.9691)  
-- **Best Trade-off (Speed vs Performance):** Adam / ADMM (Regression), XGBoost (Classification)  
+- **Best Accuracy in Linear Regression Optimization:** SSHF
+- **Best Overall MNIST Digit Classifier:** Voting Ensemble (Weighted F1 = 0.9691)  
