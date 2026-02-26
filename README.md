@@ -36,11 +36,11 @@ This module explores different optimization algorithms applied to Linear Regress
 
 ## Methods Implemented
 
-1. **Stochastic Gradient Descent (SGD)** – Baseline first-order method  
-2. **Adam (Adaptive Moment Estimation)** – First-order method with adaptive learning rates and momentum  
-3. **ADMM (Alternating Direction Method of Multipliers)** – Decomposes the problem into sub-problems (Ridge Regression + Quadratic Minimization)  
-4. **Stochastic Quasi-Newton (SQN)** – Uses L-BFGS recursion to approximate the inverse Hessian  
-5. **Sub-sampled Hessian-Free (SSHF)** – Second-order method using Conjugate Gradient (CG) to solve the Newton system via Hessian-vector products  
+1. **Stochastic Gradient Descent (SGD)** - Baseline first-order method  
+2. **Adam (Adaptive Moment Estimation)** - First-order method with adaptive learning rates and momentum  
+3. **ADMM (Alternating Direction Method of Multipliers)** - Decomposes the problem into sub-problems (Ridge Regression + Quadratic Minimization)  
+4. **Stochastic Quasi-Newton (SQN)** - Uses L-BFGS recursion to approximate the inverse Hessian  
+5. **Sub-sampled Hessian-Free (SSHF)** - Second-order method using Conjugate Gradient (CG) to solve the Newton system via Hessian-vector products  
 
 ---
 
