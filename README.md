@@ -1,6 +1,6 @@
 # ML-Algorithm-Optimization
 
-**Author:** Vrishab Anurag Venkataraghavan
+Vrishab Anurag Venkataraghavan
 
 ---
 
